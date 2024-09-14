@@ -60,7 +60,7 @@ async def main():
             questionsTest.append(questionsPart)
             print(part, len(questionsPart))
 
-        fullTest = Test(questionsTest= questionsTest).to_dict()     # dinh dang dict de ghi vao json
+        fullTest = Test(questionsTest= questionsTest).to_dict()     # dict for json
         with open(file_path, 'w') as file:
             dump(fullTest, file, indent=4)
         print(f"Done, {len(questionsTest) - 1} parts")
