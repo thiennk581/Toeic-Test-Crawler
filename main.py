@@ -6,12 +6,17 @@ import os
 from Crawler import *
 from Test import *
 
-fileJson = "test15.json"
+print("Type link test to crawl from estudyme.com: ", end='')
+#ex: "https://estudyme.com/study/test/toeic-testpro/test-1-62b69492bbc57b27fe10f7ac/"
+url = input().strip()
+
+print("Name file to store data: ", end = '')    # Ex: "test1.json"
+fileJson = input().strip()
+print("Crawling...")
+
 folder = "ToeicTests"
 os.makedirs(folder, exist_ok=True)
 file_path = os.path.join(folder, fileJson)
-
-url = "https://estudyme.com/study/test/toeic-testpro/test-15-new-64a2947d1064127d35e7b87b/" #link test
 
 parts = [f"Part {i}" for i in range(1,8)]
 
@@ -58,7 +63,7 @@ async def main():
         fullTest = Test(questionsTest= questionsTest).to_dict()     # dinh dang dict de ghi vao json
         with open(file_path, 'w') as file:
             dump(fullTest, file, indent=4)
-        print(len(questionsTest))
+        print(f"Done, {len(questionsTest) - 1} parts")
         await browser.close()
         
         

@@ -1,0 +1,2430 @@
+{
+    "part_1": [
+        {
+            "question_index": "C\u00e2u h\u1ecfi 1.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/47325282.mp3",
+            "img_src": "https://estudyme.hoc102.com/prod/2023/01/06/1781567.png",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)",
+                "(D)"
+            ],
+            "correct_answer": "(C)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 2.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/84976232.mp3",
+            "img_src": "https://estudyme.hoc102.com/prod/2023/01/06/33726098.png",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)",
+                "(D)"
+            ],
+            "correct_answer": "(B)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 3.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/65199505.mp3",
+            "img_src": "https://estudyme.hoc102.com/prod/2023/01/06/49489758.png",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)",
+                "(D)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 4.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/91172898.mp3",
+            "img_src": "https://estudyme.hoc102.com/prod/2023/01/06/62655435.png",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)",
+                "(D)"
+            ],
+            "correct_answer": "(D)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 5.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/87964572.mp3",
+            "img_src": "https://estudyme.hoc102.com/prod/2023/01/06/87608779.png",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)",
+                "(D)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 6.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/30903275.mp3",
+            "img_src": "https://estudyme.hoc102.com/prod/2023/01/06/98307829.png",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)",
+                "(D)"
+            ],
+            "correct_answer": "(D)"
+        }
+    ],
+    "part_2": [
+        {
+            "question_index": "C\u00e2u h\u1ecfi 7.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/4183421.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(B)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 8.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/52843593.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 9.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/61491843.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 10.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/90860038.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(B)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 11.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/1507735.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(B)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 12.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/52350724.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 13.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/212976.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(B)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 14.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/60522949.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 15.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/64439282.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(C)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 16.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/11373289.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 17.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/8794031.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(C)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 18.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/86601739.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 19.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/13190191.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(B)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 20.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/75698099.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 21.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/89530656.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(C)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 22.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/59144723.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 23.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/79397787.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 24.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/31802671.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(B)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 25.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/1406588.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(C)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 26.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/94083803.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 27.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/50678583.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(B)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 28.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/88961705.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(C)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 29.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/34870726.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(A)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 30.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/70000034.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(C)"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 31.",
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/98011389.mp3",
+            "answers": [
+                "(A)",
+                "(B)",
+                "(C)"
+            ],
+            "correct_answer": "(C)"
+        }
+    ],
+    "part_3": [
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/618532.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 32.",
+                    "question_text": "Why is Malinda unable to stay until 5 P.M.?",
+                    "answers": [
+                        "(A) She is not feeling very well.",
+                        "(B) She must get a family member.",
+                        "(C) She has to drop off some supplies.",
+                        "(D) She will go to a school function."
+                    ],
+                    "correct_answer": "(B) She must get a family member."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 33.",
+                    "question_text": "What does the man agree to do?",
+                    "answers": [
+                        "(A) Call a receptionist",
+                        "(B) Interview an applicant",
+                        "(C) Show people around a gym",
+                        "(D) Fill in for a colleague"
+                    ],
+                    "correct_answer": "(D) Fill in for a colleague"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 34.",
+                    "question_text": "According to the woman, where did the man previously work?",
+                    "answers": [
+                        "(A) At a fitness center",
+                        "(B) At an advertising firm",
+                        "(C) At a construction company",
+                        "(D) At a recruitment agency"
+                    ],
+                    "correct_answer": "(B) At an advertising firm"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/26298080.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 35.",
+                    "question_text": "Where do the speakers most likely work?",
+                    "answers": [
+                        "(A) At a concert hall",
+                        "(B) At a clothing retail outlet",
+                        "(C) At a record store",
+                        "(D) At an electronics repair shop"
+                    ],
+                    "correct_answer": "(C) At a record store"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 36.",
+                    "question_text": "What does the man recommend?",
+                    "answers": [
+                        "(A) Selling merchandise online",
+                        "(B) Contacting local performers",
+                        "(C) Organizing jazz concerts",
+                        "(D) Giving away prizes"
+                    ],
+                    "correct_answer": "(B) Contacting local performers"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 37.",
+                    "question_text": "According to the woman, what do some customers want?",
+                    "answers": [
+                        "(A) Artists\u2019 signatures",
+                        "(B) Musical instruments",
+                        "(C) Limited edition posters",
+                        "(D) New albums"
+                    ],
+                    "correct_answer": "(A) Artists\u2019 signatures"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/33172541.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 38.",
+                    "question_text": "Where most likely does the conversation take place?",
+                    "answers": [
+                        "(A) At a bus terminal",
+                        "(B) At a park",
+                        "(C) At a garage",
+                        "(D) At a car dealership"
+                    ],
+                    "correct_answer": "(C) At a garage"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 39.",
+                    "question_text": "What does the woman say about her husband?",
+                    "answers": [
+                        "(A) He forgot to print a document.",
+                        "(B) He wants to buy a monthly pass.",
+                        "(C) He is employed by a nearby business.",
+                        "(D) He is running some errands."
+                    ],
+                    "correct_answer": "(C) He is employed by a nearby business."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 40.",
+                    "question_text": "What should the woman do when she leaves?",
+                    "answers": [
+                        "(A) Make a payment",
+                        "(B) Speak with an attendant",
+                        "(C) Ask for a ticket",
+                        "(D) Confirm an appointment"
+                    ],
+                    "correct_answer": "(A) Make a payment"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/30436970.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 41.",
+                    "question_text": "When is the man planning to return from Seattle?",
+                    "answers": [
+                        "(A) On Tuesday",
+                        "(B) On Wednesday",
+                        "(C) On Thursday",
+                        "(D) On Friday"
+                    ],
+                    "correct_answer": "(B) On Wednesday"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 42.",
+                    "question_text": "What will probably take place tomorrow morning?",
+                    "answers": [
+                        "(A) A product demonstration",
+                        "(B) A sales workshop",
+                        "(C) A marketing presentation",
+                        "(D) A shareholders\u2019 meeting"
+                    ],
+                    "correct_answer": "(C) A marketing presentation"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 43.",
+                    "question_text": "Why does the man say, \"I\u2019ll take a later flight, then\u201d?",
+                    "answers": [
+                        "(A) To accept an upgrade",
+                        "(B) To turn down a proposal",
+                        "(C) To confirm a departure time",
+                        "(D) To agree to a request"
+                    ],
+                    "correct_answer": "(D) To agree to a request"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/60444755.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 44.",
+                    "question_text": "What is the conversation mainly about?",
+                    "answers": [
+                        "(A) Hiring a personal chef",
+                        "(B) Postponing a luncheon",
+                        "(C) Eating at an on-site facility",
+                        "(D) Extending a break period"
+                    ],
+                    "correct_answer": "(C) Eating at an on-site facility"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 45.",
+                    "question_text": "According to the woman, why has there been a change?",
+                    "answers": [
+                        "(A) To respond to worker comments",
+                        "(B) To improve safety measures",
+                        "(C) To reduce company expenses",
+                        "(D) To accommodate staff schedules"
+                    ],
+                    "correct_answer": "(A) To respond to worker comments"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 46.",
+                    "question_text": "When will the man most likely join the woman?",
+                    "answers": [
+                        "(A) When a restaurant opens",
+                        "(B) When a work trip ends",
+                        "(C) When a menu is changed",
+                        "(D) When a task is completed"
+                    ],
+                    "correct_answer": "(D) When a task is completed"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/31827619.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 47.",
+                    "question_text": "Where most likely do the speakers work?",
+                    "answers": [
+                        "(A) At a financial firm",
+                        "(B) At a print shop",
+                        "(C) At a research institute",
+                        "(D) At an appliance manufacturer"
+                    ],
+                    "correct_answer": "(A) At a financial firm"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 48.",
+                    "question_text": "What does the man ask the woman about?",
+                    "answers": [
+                        "(A) A team\u2019s research results",
+                        "(B) A document\u2019s size specifications",
+                        "(C) An order\u2019s delivery date",
+                        "(D) An assignment\u2019s deadline"
+                    ],
+                    "correct_answer": "(D) An assignment\u2019s deadline"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 49.",
+                    "question_text": "What does the man mean when he says, \u201cIt will be easier for me to refer to that\u201d?",
+                    "answers": [
+                        "(A) He wants to use updated software.",
+                        "(B) He would rather print a brochure.",
+                        "(C) He wants to view an electronic file.",
+                        "(D) He would like to reference a memo."
+                    ],
+                    "correct_answer": "(C) He wants to view an electronic file."
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/71523614.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 50.",
+                    "question_text": "Why is the man calling?",
+                    "answers": [
+                        "(A) To reserve an item",
+                        "(B) To cancel an account",
+                        "(C) To request an extension",
+                        "(D) To make a complaint"
+                    ],
+                    "correct_answer": "(D) To make a complaint"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 51.",
+                    "question_text": "According to the woman, what did the library do last month?",
+                    "answers": [
+                        "(A) Launched a Web site",
+                        "(B) Changed a notification procedure",
+                        "(C) Increased fines for overdue materials",
+                        "(D) Ordered new books"
+                    ],
+                    "correct_answer": "(B) Changed a notification procedure"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 52.",
+                    "question_text": "What does the woman say she can do?",
+                    "answers": [
+                        "(A) Return a book",
+                        "(B) Pass on a message",
+                        "(C) Send an e-mail",
+                        "(D) Waive a charge"
+                    ],
+                    "correct_answer": "(D) Waive a charge"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/15729350.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 53.",
+                    "question_text": "What was held on Monday?",
+                    "answers": [
+                        "(A) An employee orientation",
+                        "(B) A job interview",
+                        "(C) A staff meeting",
+                        "(D) A training session"
+                    ],
+                    "correct_answer": "(B) A job interview"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 54.",
+                    "question_text": "What is mentioned about Sheryl Johnson?",
+                    "answers": [
+                        "(A) She lacks relevant experience.",
+                        "(B) She will provide a work sample.",
+                        "(C) She has requested a transfer.",
+                        "(D) She will lead a seminar."
+                    ],
+                    "correct_answer": "(A) She lacks relevant experience."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 55.",
+                    "question_text": "What will the woman probably do next?",
+                    "answers": [
+                        "(A) Visit another company",
+                        "(B) Contact an applicant",
+                        "(C) Discuss a matter with a superior",
+                        "(D) Place resumes in a filing cabinet"
+                    ],
+                    "correct_answer": "(C) Discuss a matter with a superior"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/20264951.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 56.",
+                    "question_text": "What is the problem?",
+                    "answers": [
+                        "(A) A gathering was noisy.",
+                        "(B) An alarm failed to go off.",
+                        "(C) A heating system malfunctioned.",
+                        "(D) A piece of furniture is uncomfortable."
+                    ],
+                    "correct_answer": "(A) A gathering was noisy."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 57.",
+                    "question_text": "What does the woman imply when she says, \u201cAre you serious\u201d?",
+                    "answers": [
+                        "(A) She missed an appointment.",
+                        "(B) She has plans for a holiday.",
+                        "(C) She is frustrated by a closure.",
+                        "(D) She is disappointed with a unit."
+                    ],
+                    "correct_answer": "(C) She is frustrated by a closure."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 58.",
+                    "question_text": "What does the woman ask the man about?",
+                    "answers": [
+                        "(A) The number of an apartment",
+                        "(B) The length of a holiday",
+                        "(C) The location of some stationery",
+                        "(D) The address of a landlord"
+                    ],
+                    "correct_answer": "(A) The number of an apartment"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/79955276.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 59.",
+                    "question_text": "Who most likely is the man?",
+                    "answers": [
+                        "(A) A craftsman",
+                        "(B) A personal assistant",
+                        "(C) A salesperson",
+                        "(D) A fashion designer"
+                    ],
+                    "correct_answer": "(C) A salesperson"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 60.",
+                    "question_text": "What problem does the woman mention?",
+                    "answers": [
+                        "(A) An order arrived late.",
+                        "(B) A stock room is messy.",
+                        "(C) A price tag is incorrect.",
+                        "(D) A product is damaged."
+                    ],
+                    "correct_answer": "(D) A product is damaged."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 61.",
+                    "question_text": "What does the woman ask the man to do?",
+                    "answers": [
+                        "(A) Supply a receipt",
+                        "(B) Wrap a purchase",
+                        "(C) Repair an item",
+                        "(D) Provide a discount"
+                    ],
+                    "correct_answer": "(B) Wrap a purchase"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/73446470.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 62.",
+                    "question_text": "Where is the conversation most likely taking place?",
+                    "answers": [
+                        "(A) At a performance venue",
+                        "(B) At an amusement park",
+                        "(C) At a science museum",
+                        "(D) At a shopping mall"
+                    ],
+                    "correct_answer": "(B) At an amusement park"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 63.",
+                    "question_text": "According to Amy, how long has the facility been in operation?",
+                    "answers": [
+                        "(A) For one month",
+                        "(B) For two months",
+                        "(C) For one year",
+                        "(D) For two years"
+                    ],
+                    "correct_answer": "(C) For one year"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 64.",
+                    "question_text": "Why was the man unaware of an event?",
+                    "answers": [
+                        "(A) He is not on a mailing list.",
+                        "(B) He could not attend a conference.",
+                        "(C) He did not notice a schedule.",
+                        "(D) He was given inaccurate information."
+                    ],
+                    "correct_answer": "(C) He did not notice a schedule."
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/704944.mp3",
+            "img_src": "https://estudyme.hoc102.com/prod/2023/01/06/82899630.png",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 65.",
+                    "question_text": "What will the man do tonight?",
+                    "answers": [
+                        "(A) Upgrade computer software",
+                        "(B) Assist with a move",
+                        "(C) Get in touch with a client",
+                        "(D) Participate in a meeting"
+                    ],
+                    "correct_answer": "(B) Assist with a move"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 66.",
+                    "question_text": "What problem does the man mention?",
+                    "answers": [
+                        "(A) A goal was missed.",
+                        "(B) A list is incomplete.",
+                        "(C) A directory is inaccessible.",
+                        "(D) A desk can no longer be used."
+                    ],
+                    "correct_answer": "(B) A list is incomplete."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 67.",
+                    "question_text": "Look at the graphic. Who works in the marketing department?",
+                    "answers": [
+                        "(A) Monica Pearce",
+                        "(B) Josh Han",
+                        "(C) Valarie Dupree",
+                        "(D) Will Garcia"
+                    ],
+                    "correct_answer": "(A) Monica Pearce"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/14311030.mp3",
+            "img_src": "https://estudyme.hoc102.com/prod/2023/01/06/91441556.png",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 68.",
+                    "question_text": "Look at the graphic. How much did the man pay for the ticket?",
+                    "answers": [
+                        "(A) $5",
+                        "(B) $10",
+                        "(C) $15",
+                        "(D) $20"
+                    ],
+                    "correct_answer": "(B) $10"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 69.",
+                    "question_text": "What happened yesterday?",
+                    "answers": [
+                        "(A) A discount was offered.",
+                        "(B) A competition was held.",
+                        "(C) A notice was posted online.",
+                        "(D) A class was canceled."
+                    ],
+                    "correct_answer": "(C) A notice was posted online."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 70.",
+                    "question_text": "Why is the man unable to attend the festival on Sunday?",
+                    "answers": [
+                        "(A) He is going to meet with family.",
+                        "(B) He has to go on a business trip.",
+                        "(C) He has to prepare for a contest.",
+                        "(D) He is going to conduct a workshop."
+                    ],
+                    "correct_answer": "(A) He is going to meet with family."
+                }
+            ]
+        }
+    ],
+    "part_4": [
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/23881026.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 71.",
+                    "question_text": "What is the main purpose of this announcement?",
+                    "answers": [
+                        "(A)To encourage people to visit an exhibit",
+                        "(B)To introduce a gift idea",
+                        "(C)To inform extended hours",
+                        "(D)To announce a closing time"
+                    ],
+                    "correct_answer": "(D)To announce a closing time"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 72.",
+                    "question_text": "When will the gift shop in the museum close?",
+                    "answers": [
+                        "(A) At 4:00",
+                        "(B)At 4:10",
+                        "(C)At 5:00",
+                        "(D)At 5:10"
+                    ],
+                    "correct_answer": "(C)At 5:00"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 73.",
+                    "question_text": "What will happen next month?",
+                    "answers": [
+                        "(A)A new exhibit will be held.",
+                        "(B)A coat room will be added.",
+                        "(C)Online registration service will begin.",
+                        "(D)A section will be closed for renovation."
+                    ],
+                    "correct_answer": "(A)A new exhibit will be held."
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/37401126.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 74.",
+                    "question_text": "What is this announcement about?",
+                    "answers": [
+                        "(A)A change in security practice",
+                        "(B)An ordering procedure for new equipment",
+                        "(C)A plan to evaluate factory\u2019s employees",
+                        "(D)A schedule for the regular inspection"
+                    ],
+                    "correct_answer": "(A)A change in security practice"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 75.",
+                    "question_text": "According to the announcement, why should some employees go to the security office?",
+                    "answers": [
+                        "(A)To pick up an instruction booklet",
+                        "(B)To register the new program",
+                        "(C)To get an identification badge",
+                        "(D)To receive orientation materials"
+                    ],
+                    "correct_answer": "(C)To get an identification badge"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 76.",
+                    "question_text": "What does the man imply when he says, \u201ccall your department to clear your ID\u201d?",
+                    "answers": [
+                        "(A)Call an emergency hot line for information.",
+                        "(B)The department store is out of inventory.",
+                        "(C)You cannot access the building without an ID.",
+                        "(D)Employees should keep their IDs at their offices."
+                    ],
+                    "correct_answer": "(C)You cannot access the building without an ID."
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/9377588.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 77.",
+                    "question_text": "What is the purpose of this talk?",
+                    "answers": [
+                        "(A)To introduce an instruction video",
+                        "(B)To promote a new product",
+                        "(C)To change the order she had placed",
+                        "(D)To welcome a group of new employees"
+                    ],
+                    "correct_answer": "(A)To introduce an instruction video"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 78.",
+                    "question_text": "What will the listeners be reviewing?",
+                    "answers": [
+                        "(A)Detailed terms of a contract",
+                        "(B)Specific images they have gathered",
+                        "(C)Many helpful online sites",
+                        "(D)Various functions of a camera"
+                    ],
+                    "correct_answer": "(D)Various functions of a camera"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 79.",
+                    "question_text": "What are the listeners asked to do?",
+                    "answers": [
+                        "(A)Carry the handbook all the time",
+                        "(B)Sign up at the online site",
+                        "(C)Explore the functions on their own",
+                        "(D)Send the images to their company"
+                    ],
+                    "correct_answer": "(B)Sign up at the online site"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/9212738.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 80.",
+                    "question_text": "What is the purpose of the speech?",
+                    "answers": [
+                        "(A)To welcome new employees",
+                        "(B)To inform a schedule change",
+                        "(C)To present an employee award",
+                        "(D)To report company\u2019s successful year"
+                    ],
+                    "correct_answer": "(C)To present an employee award"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 81.",
+                    "question_text": "What kind of company does the speaker probably work for?",
+                    "answers": [
+                        "(A)An advertising agency",
+                        "(B)An airline company",
+                        "(C)A soft drinks company",
+                        "(D)An accounting firm"
+                    ],
+                    "correct_answer": "(A)An advertising agency"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 82.",
+                    "question_text": "What does the woman imply when she says, \u201chelped a lot to increase our clients\u2019 sales\u201d?",
+                    "answers": [
+                        "(A)They used to work at the clients\u2019 companies.",
+                        "(B)The commercials for the clients were effective.",
+                        "(C)Creativity is the most important factor in the advertisement.",
+                        "(D)Ms. Wilson will become an executive of this company soon."
+                    ],
+                    "correct_answer": "(B)The commercials for the clients were effective."
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/7168186.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 83.",
+                    "question_text": "What type of event does Stewards Food specialize in?",
+                    "answers": [
+                        "(A) Outdoor events",
+                        "(B) Corporate functions",
+                        "(C) International business",
+                        "(D) Family celebrations"
+                    ],
+                    "correct_answer": "(B) Corporate functions"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 84.",
+                    "question_text": "What is available on the Stewards Food's website?",
+                    "answers": [
+                        "(A) Chef's contact information",
+                        "(B) Pictures of the service staff",
+                        "(C) Price estimates for various functions",
+                        "(D) Sample menus for the event"
+                    ],
+                    "correct_answer": "(D) Sample menus for the event"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 85.",
+                    "question_text": "According to the advertisement, how can listeners request a price estimate?",
+                    "answers": [
+                        "(A) By linking to a website",
+                        "(B) By calling a catering specialist",
+                        "(C) By sending the request form by fax",
+                        "(D) By contacting the person in charge"
+                    ],
+                    "correct_answer": "(A) By linking to a website"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/84634493.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 86.",
+                    "question_text": "Where does the caller probably work?",
+                    "answers": [
+                        "(A)At a print shop",
+                        "(B)At an art gallery",
+                        "(C)At a publishing company",
+                        "(D)At a bookstore"
+                    ],
+                    "correct_answer": "(D)At a bookstore"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 87.",
+                    "question_text": "What is the message concerned about?",
+                    "answers": [
+                        "(A)Ordering more products",
+                        "(B)Handling customer complaints",
+                        "(C)Setting up a new display",
+                        "(D)Writing an article for the next month\u2019s issue"
+                    ],
+                    "correct_answer": "(C)Setting up a new display"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 88.",
+                    "question_text": "What does the caller ask Amy to do?",
+                    "answers": [
+                        "(A)Keep a detailed record",
+                        "(B)Locate a missing item",
+                        "(C)Create a work schedule",
+                        "(D)Contact customers for an input"
+                    ],
+                    "correct_answer": "(A)Keep a detailed record"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/21993641.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 89.",
+                    "question_text": "Where are the listeners?",
+                    "answers": [
+                        "(A)At a technical training",
+                        "(B)At an auto maker\u2019s conference",
+                        "(C)On an assembly floor",
+                        "(D)At an annual sales seminar"
+                    ],
+                    "correct_answer": "(B)At an auto maker\u2019s conference"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 90.",
+                    "question_text": "What is the purpose of the talk?",
+                    "answers": [
+                        "(0) To get a discount coupon for an item",
+                        "(A)To explain today\u2019s schedule",
+                        "(B)To inform changes in the program",
+                        "(D)To promote new electronic equipment"
+                    ],
+                    "correct_answer": "(D)To promote new electronic equipment"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 91.",
+                    "question_text": "What does the woman mean when she says, \u201cThe outer appearance can be customized\u201d?",
+                    "answers": [
+                        "(A)Customers buy products solely depend on its appearance.",
+                        "(B)There will be extra charges for changing the outer designs.",
+                        "(C)The products could look different from one another.",
+                        "(D)The company is the only one which offers this kind of premium service."
+                    ],
+                    "correct_answer": "(C)The products could look different from one another."
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/2563357.mp3",
+            "img_src": null,
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 92.",
+                    "question_text": "Who is Mark Planko?",
+                    "answers": [
+                        "(A)A radio show host",
+                        "(B)A news reporter",
+                        "(C)A psychologist",
+                        "(D)A company executive"
+                    ],
+                    "correct_answer": "(C)A psychologist"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 93.",
+                    "question_text": "What will be the main subject of the program?",
+                    "answers": [
+                        "(A)An advertising technique",
+                        "(B)A new radio program",
+                        "(C)New writing technique",
+                        "(D)New product campaign"
+                    ],
+                    "correct_answer": "(A)An advertising technique"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 94.",
+                    "question_text": "What did Mark Planko do recently?",
+                    "answers": [
+                        "(A)He launched a new product.",
+                        "(B)He got an award for his advertisement.",
+                        "(C)He published some research.",
+                        "(D)He traveled around the world."
+                    ],
+                    "correct_answer": "(C)He published some research."
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/97715985.mp3",
+            "img_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/62438883.png",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 95.",
+                    "question_text": "What kind of business does the speaker work for?",
+                    "answers": [
+                        "(A)A restaurant chain",
+                        "(B)A marketing research firm",
+                        "(C)A cleaning service",
+                        "(D)An assembly factory"
+                    ],
+                    "correct_answer": "(A)A restaurant chain"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 96.",
+                    "question_text": "Look at the graphic. What does the speaker want to discuss with the listeners?",
+                    "answers": [
+                        "(A)Quality",
+                        "(B)Customer service",
+                        "(C)Price",
+                        "(D)Atmosphere"
+                    ],
+                    "correct_answer": "(B)Customer service"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 97.",
+                    "question_text": "What will Mr. Bones do?",
+                    "answers": [
+                        "(A)Survey the customers again",
+                        "(B)Calculate where the money is leaking",
+                        "(C)Locate an unprofitable branch",
+                        "(D)Create a detailed report"
+                    ],
+                    "correct_answer": "(D)Create a detailed report"
+                }
+            ]
+        },
+        {
+            "audio_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/6819532.mp3",
+            "img_src": "https://storage.googleapis.com/estudyme/prod/2023/01/06/10077601.png",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 98.",
+                    "question_text": "Look at the graphic. Which company will have the biggest market share next month?",
+                    "answers": [
+                        "(A)Newswide",
+                        "(B)Daily Globe",
+                        "(C)Sunnydale",
+                        "(D)Starlight Magazine"
+                    ],
+                    "correct_answer": "(C)Sunnydale"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 99.",
+                    "question_text": "Who is Jack Johnson?",
+                    "answers": [
+                        "(A)A company executive",
+                        "(B)A newspaper editor",
+                        "(C)A mayor of the city",
+                        "(D)A radio reporter"
+                    ],
+                    "correct_answer": "(D)A radio reporter"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 100.",
+                    "question_text": "What event took place this morning?",
+                    "answers": [
+                        "(A)A news conference was held.",
+                        "(B)A merger contract was signed.",
+                        "(C)The president made a special announcement.",
+                        "(D)They moved into a new headquarters building."
+                    ],
+                    "correct_answer": "(A)A news conference was held."
+                }
+            ]
+        }
+    ],
+    "part_5": [
+        {
+            "question_index": "C\u00e2u h\u1ecfi 101.",
+            "question_text": "Body-Wise Gym____closes for minor renovations and cleaning.",
+            "answers": [
+                "(A)periodic",
+                "(B)periodical",
+                "(C)period",
+                "(D)periodically"
+            ],
+            "correct_answer": "(D)periodically"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 102.",
+            "question_text": "The reporter forecasted sunny weather ____ the Midwestern region for tomorrow.",
+            "answers": [
+                "(A)among",
+                "(B)throughout",
+                "(C)without",
+                "(D)until"
+            ],
+            "correct_answer": "(B)throughout"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 103.",
+            "question_text": "The faulty card reader located at the side entrance of Carter & Associates\u2019 headquarters ____in the coming week.",
+            "answers": [
+                "(A)was repaired",
+                "(B)repairs",
+                "(C)will be repaired",
+                "(D)has been repaired"
+            ],
+            "correct_answer": "(C)will be repaired"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 104.",
+            "question_text": "The accounting department revised estimates for expenditures after ____the news that the budget would be changed.",
+            "answers": [
+                "(A)to receive",
+                "(B)receives",
+                "(C)receiver",
+                "(D)receiving"
+            ],
+            "correct_answer": "(D)receiving"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 105.",
+            "question_text": "Colorlast makes a line of outdoor paints that are ___ formulated to withstand years of exposure to sun and precipitation.",
+            "answers": [
+                "(A)special",
+                "(B)specialty",
+                "(C)specially",
+                "(D)specialization"
+            ],
+            "correct_answer": "(C)specially"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 106.",
+            "question_text": "Athlete Tim Ferguson has made a ____ recovery from his injuries and will be able to play in his team\u2019s next match.",
+            "answers": [
+                "(A)reverse",
+                "(B)preferable",
+                "(C)remarkable",
+                "(D)negligible"
+            ],
+            "correct_answer": "(C)remarkable"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 107.",
+            "question_text": "Prospective candidates for the position will be notified of the final decision by June 1 at the ____.",
+            "answers": [
+                "(A)late",
+                "(B)latest",
+                "(C)lately",
+                "(D)later"
+            ],
+            "correct_answer": "(B)latest"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 108.",
+            "question_text": "Dr. Watanabe was seated ___the keynote speaker and the foundation president during the banquet.",
+            "answers": [
+                "(A)about",
+                "(B)between",
+                "(C)versus",
+                "(D)except"
+            ],
+            "correct_answer": "(B)between"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 109.",
+            "question_text": "Ms. Larrington\u2019s ___speech about how to improve customer satisfaction has motivated service specialists across the country.",
+            "answers": [
+                "(A)perishable",
+                "(B)portable",
+                "(C)enthusiastic",
+                "(D)indifferent"
+            ],
+            "correct_answer": "(C)enthusiastic"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 110.",
+            "question_text": "Verdant Island can only be visited in the daytime since ___of it is covered by water at night.",
+            "answers": [
+                "(A)much",
+                "(B)few",
+                "(C)less",
+                "(D)enough"
+            ],
+            "correct_answer": "(A)much"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 111.",
+            "question_text": "Extra staff were called in from nearby branches to help plant crews ___ production deadlines for an unexpected order.",
+            "answers": [
+                "(A)meet",
+                "(B)enter",
+                "(C)relieve",
+                "(D)commit"
+            ],
+            "correct_answer": "(A)meet"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 112.",
+            "question_text": "Officials at Lextar International were unable to agree ___a definite solution to the problem of steadily declining profit margins.",
+            "answers": [
+                "(A)at",
+                "(B)that",
+                "(C)by",
+                "(D)on"
+            ],
+            "correct_answer": "(D)on"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 113.",
+            "question_text": "According to the Ministry of the Environment, updated ___ on water consumption will go into effect next month.",
+            "answers": [
+                "(A)regulation",
+                "(B)regulate",
+                "(C)regulating",
+                "(D)regulations"
+            ],
+            "correct_answer": "(D)regulations"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 114.",
+            "question_text": "The dean announced that an esteemed professor working at the university for three decades would ___be retiring.",
+            "answers": [
+                "(A)rarely",
+                "(B)frequently",
+                "(C)newly",
+                "(D)soon"
+            ],
+            "correct_answer": "(D)soon"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 115.",
+            "question_text": "Torres Architecture, the agency that planned the Steadman Tower, won an award from Building Life Global for its ___design.",
+            "answers": [
+                "(A)distinction",
+                "(B)distinctiveness",
+                "(C)distinctive",
+                "(D)distinctively"
+            ],
+            "correct_answer": "(C)distinctive"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 116.",
+            "question_text": "To increase the stability of large data transfers, the technical crew will___an upgraded software program on Friday.",
+            "answers": [
+                "(A)detach",
+                "(B)install",
+                "(C)convert",
+                "(D)capture"
+            ],
+            "correct_answer": "(B)install"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 117.",
+            "question_text": "The Cottonwood Gallery guarantees that ___ of the items it sells is an original and comes with an official certificate of authenticity.",
+            "answers": [
+                "(A)many",
+                "(B)each",
+                "(C)both",
+                "(D)all"
+            ],
+            "correct_answer": "(B)each"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 118.",
+            "question_text": "If Jennifer hits all of her sales targets for the next quarter, there is a good chance she will ___.",
+            "answers": [
+                "(A)promote",
+                "(B)have promoted",
+                "(C)be promoted",
+                "(D)be promoting"
+            ],
+            "correct_answer": "(C)be promoted"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 119.",
+            "question_text": "The developers at Staycor ___test new software multiple times as their overall objective is to detect and eliminate any defects.",
+            "answers": [
+                "(A)almost",
+                "(B)barely",
+                "(C)suddenly",
+                "(D)typically"
+            ],
+            "correct_answer": "(D)typically"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 120.",
+            "question_text": "Gigantica Studio\u2019s new action movie has some scenes which may be inappropriate for ___under the age of 15.",
+            "answers": [
+                "(A)whoever",
+                "(B)them",
+                "(C)these",
+                "(D)those"
+            ],
+            "correct_answer": "(D)those"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 121.",
+            "question_text": "After years of difficulty doing it herself, Ms. Pace had her taxes ___through an accounting agency.",
+            "answers": [
+                "(A)filing",
+                "(B)file",
+                "(C)filed",
+                "(D)to file"
+            ],
+            "correct_answer": "(C)filed"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 122.",
+            "question_text": "___expectations, the band\u2019s greatest hits CD sold a million copies shortly after Its release.",
+            "answers": [
+                "(A)Recommending",
+                "(B)Perceiving",
+                "(C)Evolving",
+                "(D)Exceeding"
+            ],
+            "correct_answer": "(D)Exceeding"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 123.",
+            "question_text": "Mr. Conrad posted advertisements on several recruitment sites, including the ___ regarding salaries and benefits.",
+            "answers": [
+                "(A)permissions",
+                "(B)configurations",
+                "(C)particulars",
+                "(D)institutions"
+            ],
+            "correct_answer": "(C)particulars"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 124.",
+            "question_text": "Top executives from Home stock gave members of the local media a tour of the new store ___its grand opening.",
+            "answers": [
+                "(A)next to",
+                "(B)ahead of",
+                "(C)aside from",
+                "(D)in front of"
+            ],
+            "correct_answer": "(B)ahead of"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 125.",
+            "question_text": "Responding to declining sales figures, Senturia Automotive concluded that they had to___the M5 Sedan line.",
+            "answers": [
+                "(A)disembark",
+                "(B)disobey",
+                "(C)discontinue",
+                "(D)dismiss"
+            ],
+            "correct_answer": "(C)discontinue"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 126.",
+            "question_text": "The Chicago Herald gives a 40 percent discount to existing ___who sign up for access to its online edition.",
+            "answers": [
+                "(A)subscription",
+                "(B)subscribed",
+                "(C)subscribes",
+                "(D)subscribers"
+            ],
+            "correct_answer": "(D)subscribers"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 127.",
+            "question_text": "Sunny River Vacations endeavors to satisfy every customer by personalizing travel details to ensure that each trip is ___.",
+            "answers": [
+                "(A)memory",
+                "(B)memorable",
+                "(C)memorizing",
+                "(D)memorials"
+            ],
+            "correct_answer": "(B)memorable"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 128.",
+            "question_text": "Rowan Training Center has added morebusiness classes, which brings the total number of___ sessions to nearly double that of last year.",
+            "answers": [
+                "(A)schedule",
+                "(B)scheduled",
+                "(C)schedules",
+                "(D)scheduling"
+            ],
+            "correct_answer": "(B)scheduled"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 129.",
+            "question_text": "Ms. Jacobs\u2019 managerial style is democratic ___she includes her staff in the decision-making process.",
+            "answers": [
+                "(A)in that",
+                "(B)for example",
+                "(C)so that",
+                "(D)rather than"
+            ],
+            "correct_answer": "(A)in that"
+        },
+        {
+            "question_index": "C\u00e2u h\u1ecfi 130.",
+            "question_text": "MFG Electronics has a page on its Web site dedicated to___from users of its products.",
+            "answers": [
+                "(A)licenses",
+                "(B)testimonials",
+                "(C)accomplishments",
+                "(D)tendencies"
+            ],
+            "correct_answer": "(B)testimonials"
+        }
+    ],
+    "part_6": [
+        {
+            "paragraph": " March 12 - Starting from next month, street parking in the city center will be free. City council members chose ---131--- the use of parking meters downtown by a unanimous vote. Rising wages are needed for city workers to check parking meters and issue tickets, so the practice is no longer ---132---. Officials hope the change will also ---133--- development of the downtown area by encouraging more visitors, many of whom are shoppers from out of town. The change will go into effect on April 1, though the meters won\u2019t be removed immediately. ---134---.",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 131.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) being discontinued",
+                        "(B) discontinuing",
+                        "(C) to discontinue",
+                        "(D) discontinues"
+                    ],
+                    "correct_answer": "(C) to discontinue"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 132.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) economize",
+                        "(B) economically",
+                        "(C) economy",
+                        "(D) economical"
+                    ],
+                    "correct_answer": "(D) economical"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 133.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) adopt",
+                        "(B) foster",
+                        "(C) multiply",
+                        "(D) publicize"
+                    ],
+                    "correct_answer": "(B) foster"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 134.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) Signs will be posted to notify motorists.",
+                        "(B) Traffic updates can be requested by text.",
+                        "(C) The parking fee is considered reasonable.",
+                        "(D) Please pay your parking fines promptly."
+                    ],
+                    "correct_answer": "(A) Signs will be posted to notify motorists."
+                }
+            ]
+        },
+        {
+            "paragraph": " To: Crucero Staff (stafflist@crucero.net)From: Gabrielle Jensen (jensong@crucero.net)Date: November 16Subject: Overtime hoursThe members of the finance team have ---135--- examined the budgets for our branch and, through their meticulous work, determined that there is a significant shortfall. ---136--- this discovery, we must reduce operating expenses by minimizing overtime hours. Please try to get all of your work ---137--- within the usual business hours. In cases where overtime work cannot be avoided, it should be approved in advance by a department head. ---138---. Thank you for your cooperation.Sincerely,Gabrielle Jensen",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 135.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) thoroughly",
+                        "(B) urgently",
+                        "(C) adversely",
+                        "(D) solely"
+                    ],
+                    "correct_answer": "(A) thoroughly"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 136.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) Because",
+                        "(B) Due to",
+                        "(C) Consequently",
+                        "(D) Rather than"
+                    ],
+                    "correct_answer": "(B) Due to"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 137.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) completes",
+                        "(B) completed",
+                        "(C) completion",
+                        "(D) completing"
+                    ],
+                    "correct_answer": "(B) completed"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 138.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) Please send in your detailed budgets as soon as possible.",
+                        "(B) Most employees prefer working on Saturdays over working on Sundays.",
+                        "(C) This applies to both sales and administration employees.",
+                        "(D) The additional payment has been deposited in your account."
+                    ],
+                    "correct_answer": "(C) This applies to both sales and administration employees."
+                }
+            ]
+        },
+        {
+            "paragraph": " Dawsonville in Motion, a nonprofit organization dedicated to promoting healthy lifestyles, ---139--- a Well-Being Festival for Saturday, August 18. The group wants to raise ---140---  of the methods for preventing heart disease and other conditions. The goal of many of the festival activities will be to show participants that they don\u2019t have to adhere strictly to a diet. ---141---. For example, a piece of fruit can replace a candy bar as an afternoon snack. ---142---, diners can swap French fries for a salad. Want more helpful tips? Come to the festival! It will be held at the Dawsonville Community Center, and admission is free to everyone.",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 139.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) having organized",
+                        "(B) would have organized",
+                        "(C) has organized",
+                        "(D) being organized"
+                    ],
+                    "correct_answer": "(C) has organized"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 140.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) awareness",
+                        "(B) funds",
+                        "(C) interest",
+                        "(D) standards"
+                    ],
+                    "correct_answer": "(A) awareness"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 141.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) They can make small changes to improve their health.",
+                        "(B) Organizers hope that the turnout is better than last year.",
+                        "(C) The diet can be downloaded from the group\u2019s Web site.",
+                        "(D) Rates of medical problems are on the rise in Dawsonville."
+                    ],
+                    "correct_answer": "(A) They can make small changes to improve their health."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 142.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) As a result",
+                        "(B) Similarly",
+                        "(C) Regardless",
+                        "(D) Unfortunately"
+                    ],
+                    "correct_answer": "(B) Similarly"
+                }
+            ]
+        },
+        {
+            "paragraph": "\u00a0CHARACK TOWERS: NOTICE \n---143--- of Charack Towers should be aware that the power will be turned off to most of the complex on Thursday, September 18 at 9 A.M. to install new wiring. ---144---. The power should be restored by noon, but if the work takes longer than expected, it might affect ---145--- goods in your refrigerator. We will notify you if the work exceeds the estimated schedule so that you may check that your food is still edible. Please note that this planned outage will affect all parts of Charack lowers\u00a0---146--- the South Tower, which was upgraded last quarter. Thank you for your patience and understanding.\u00a0",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 143.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) Occupy",
+                        "(B) Occupations",
+                        "(C) Occupying",
+                        "(D) Occupants"
+                    ],
+                    "correct_answer": "(D) Occupants"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 144.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) We must do so to comply with safety regulations.",
+                        "(B) If you would like to sign up, visit the property office.",
+                        "(C) The loss of power was caused by a severe storm.",
+                        "(D) Please wear protective gear while you are working"
+                    ],
+                    "correct_answer": "(A) We must do so to comply with safety regulations."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 145.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) durable",
+                        "(B) renewable",
+                        "(C) perishable",
+                        "(D) exposed"
+                    ],
+                    "correct_answer": "(C) perishable"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 146.",
+                    "question_text": null,
+                    "answers": [
+                        "(A) inside of",
+                        "(B) owing to",
+                        "(C) aside from",
+                        "(D) such as"
+                    ],
+                    "correct_answer": "(C) aside from"
+                }
+            ]
+        }
+    ],
+    "part_7": [
+        {
+            "paragraph": "   ANNOUNCINGMelinda\u2019s Antiques  A new antique store with a unique inventoryLocated on 5th Avenue between 3rd and 4th StreetsWe are open from 10 A.M. to 7 P.M. Monday to Friday, 9 A.M to 5 P.M. on Saturday and 12 P.M. to 5 P.M. on SundayWe specialize in furniture, lighting, and fine arts from the 17th to the mid-20th century.All our items are in very good condition.Present this announcement for a 10% discount on the items of your choice. ",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 147.",
+                    "question_text": "What is announced?",
+                    "answers": [
+                        "(A) A change of business hours",
+                        "(B) A weeklong sale",
+                        "(C) An opening of a new store",
+                        "(D) A store is going out of business"
+                    ],
+                    "correct_answer": "(C) An opening of a new store"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 148.",
+                    "question_text": "At what time does Melinda\u2019s Antiques open on Sunday?",
+                    "answers": [
+                        "(A) 9 A.M.",
+                        "(B) 10 A.M.",
+                        "(C) 11 A.M.",
+                        "(D) 12 P.M."
+                    ],
+                    "correct_answer": "(D) 12 P.M."
+                }
+            ]
+        },
+        {
+            "paragraph": " Mira Sorvino [9: 21 a.m.]What time should I meet the client at the airport? I heard that his flight will arrive at 3 p.m. tomorrow. ---------------------------------------------------------------------------------------------------------------------Stephen Kenny [9: 27 a.m.]I think you don't have to go there. ---------------------------------------------------------------------------------------------------------------------Stephen Kenny [9: 28 a.m.]Originally, we were supposed to pick him up, but his secretary called this morning and said he will just take a cab to the hotel. ---------------------------------------------------------------------------------------------------------------------Mira Sorvino [9: 30 a.m.]That's very good. I was worried that we wouldn't have enough time to finish up the report before meeting him. ---------------------------------------------------------------------------------------------------------------------Mira Sorvino [9: 32 a.m.]So, when do we meet him and where? ---------------------------------------------------------------------------------------------------------------------Stephen Kenny[9: 33 a.m.]We will see him at the office on Monday.",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 149.",
+                    "question_text": "At 9:30, what does Mira Sorvino mean when she writes, \u201cThat\u2019s very good\u201d?",
+                    "answers": [
+                        "(A) She can arrive on time at the airport.",
+                        "(B) She can pick a client up.",
+                        "(C) She can complete a document.",
+                        "(D) She can ask Mr. Kenny to fill out the report."
+                    ],
+                    "correct_answer": "(C) She can complete a document."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 150.",
+                    "question_text": "Where will Mira meet the client?",
+                    "answers": [
+                        "(A) At the office",
+                        "(B) At the airport",
+                        "(C) At the hotel",
+                        "(D) At the client\u2019s office"
+                    ],
+                    "correct_answer": "(A) At the office"
+                }
+            ]
+        },
+        {
+            "paragraph": "   City Express Transport Company  City Express Transport Company is pleased to announce improved bus service between Philadelphia and New York City, beginning on March 1st.\u00a9 We are adding 10 additional departures per day for a total of 25 (7 days per week).\u00a9 Departures will occur every half hour in the morning (6 A.M. - 10 A.M.) and evening (5 P.M. - 9 P.M.) and every hour from 10 A.M. - 5 P.M.\u00a9 Four additional buses will be put into service.\u00a9 Each new bus will have a capacity of 100 passengers, instead of 80.\u00a9 All buses are equipped with air conditioning.We are happy to say that fares will remain unchanged for the remainder of this year. The first and last departures of the day will still be at 5:00 A.M. and 9:00 P.M., respectively.",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 151.",
+                    "question_text": "What is the subject of the announcement?",
+                    "answers": [
+                        "(A) A new bus company",
+                        "(B) Earlier departure times",
+                        "(C) Increased bus service",
+                        "(D) Lower fare prices"
+                    ],
+                    "correct_answer": "(C) Increased bus service"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 152.",
+                    "question_text": "What is NOT true about the buses?",
+                    "answers": [
+                        "(A) They run every 30 minutes all day.",
+                        "(B) They run every day.",
+                        "(C) They travel between Philadelphia and New York City.",
+                        "(D) They have air conditioning."
+                    ],
+                    "correct_answer": "(A) They run every 30 minutes all day."
+                }
+            ]
+        },
+        {
+            "paragraph": "   Driscoll Tools Corporation (DTC) Shipping and Returns policy Shipping: Driscoll Tools Corporation (DTC) now ships its high-quality power tools across the globe. Next day, two-day and Saturday delivery options are available; Please contact a sales representative for rates. For online purchases, shipping rates are automatically calculated at the time of purchase. Discount rates are available for bulk purchases.Returns: DTC offers a 30-day money back guarantee on all products. If customers are not fully satisfied with one of our tools, they can return it for a full refund. No questions asked. No receipt is necessary for returns as we keep track of all orders in our computer system. Items may be returned to any of our 150 stores nationwide regardless of where they were purchased. Online purchases may be returned to any of our store locations or by mailing them to our central warehouse. Shipping costs are not refundable.",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 153.",
+                    "question_text": "What does DTC do?",
+                    "answers": [
+                        "(A) It sells tools.",
+                        "(B) It repairs computers.",
+                        "(C) It builds websites.",
+                        "(D) It manufactures ships."
+                    ],
+                    "correct_answer": "(A) It sells tools."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 154.",
+                    "question_text": "What delivery option is NOT mentioned?",
+                    "answers": [
+                        "(A) Next day delivery",
+                        "(B) Two-day delivery",
+                        "(C) Saturday delivery",
+                        "(D) Same-day delivery"
+                    ],
+                    "correct_answer": "(D) Same-day delivery"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 155.",
+                    "question_text": "What is stated as part of DTC\u2019s return policy?",
+                    "answers": [
+                        "(A) Items can be returned for any reason within 60 days.",
+                        "(B) Refunds generally include delivery costs.",
+                        "(C) Items bought over the Internet can only be returned by mail.",
+                        "(D) Returned items do not need to be accompanied by a receipt."
+                    ],
+                    "correct_answer": "(D) Returned items do not need to be accompanied by a receipt."
+                }
+            ]
+        },
+        {
+            "paragraph": "   Attention Coconut Grove Resort Guests Please pardon our dust as our facility undergoes some renovations. There will be a few changes that might affect your stay. The rooftop swimming pool will be closed from April 10th through April 20th. However, all guests will receive a free pass to use the pool at the Blue Lagoon Inn next door during this time. The dining area of the restaurant will be closed for the entire month of April, but the kitchen will be fully operational so room service will not be interrupted. Finally, cable television will not be available between 2 A.M. and 5 A.M. from April 5th through April 9th as we upgrade to fiber optic cables.If you have any questions or concerns, do not hesitate to speak to a member of our staff. We apologize for any inconvenience this may cause. These renovations will make the Coconut Grove Resort even more luxurious than it already is. As always, we are committed to ensuring our guests a clean, comfortable, and relaxing stay.",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 156.",
+                    "question_text": "What will be continuously available in the Coconut Grove Resort?",
+                    "answers": [
+                        "(A) Swimming pool",
+                        "(B) Room service",
+                        "(C) Restaurant",
+                        "(D) Cable television"
+                    ],
+                    "correct_answer": "(B) Room service"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 157.",
+                    "question_text": "What is the purpose of the notice?",
+                    "answers": [
+                        "(A) To alert guests for the changes caused by construction",
+                        "(B) To explain construction methods",
+                        "(C) To advertise new services in the hotel",
+                        "(D) To notify guests of improved facilities"
+                    ],
+                    "correct_answer": "(A) To alert guests for the changes caused by construction"
+                }
+            ]
+        },
+        {
+            "paragraph": " To: Joshua Dickerson (jdickerson@spsupply.com)From: Steven Battle (sbattle@globalnet.com)Date: Wednesday, August 17 11:08 A.M.Subject: Purchase Order #83902-Superior Plumbing SupplyI am currently having difficulty with an order I placed with your company, Superior Plumbing Supply. I placed an order via fax on July 28th (Purchase order #83902), for a kitchen faucet (Model # MV600) and a shower head (Model # WT755). \u2014[1]\u2014. I requested that these items be delivered to the Robinson job site. However, a different kitchen faucet (Model # MV550) was delivered to the Robinson job site last Friday. \u2014 [2] \u2014. Please make a note to have your delivery driver pick up this faucet when he or she bring out the correct ones.\u2014 [3]\u2014. As of today, I am still waiting on the kitchen faucet and shower head to be delivered. The Robinson house is ready to open but cannot until these items are installed. I spoke with one of your customer service representatives on Monday and she said the items left your warehouse last Friday and were delivered. However, I think they must have been delivered to the wrong address. \u2014 [4] \u2014. Perhaps they confused my order with another. In any event, it is very important that you locate my order and deliver it as soon as possible. I have attached an original copy of purchase order and directions to the Robinson house for your convenience.Thank you for your attention to this matter.Steven BattleProject ManagerBlue Ridge Custom Homes",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 158.",
+                    "question_text": "What is the purpose of the e-mail?",
+                    "answers": [
+                        "(A) To request new purchase order forms",
+                        "(B) To describe problems with an order",
+                        "(C) To explain a new shipping policy",
+                        "(D) To cancel a purchase order"
+                    ],
+                    "correct_answer": "(B) To describe problems with an order"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 159.",
+                    "question_text": "According to the e-mail, what has been delivered to the Robinson job site?",
+                    "answers": [
+                        "(A) Shower head Model # WT755",
+                        "(B) Kitchen Faucet Model # MV600",
+                        "(C) Kitchen Faucet Model # MV550",
+                        "(D) Nothing has been delivered."
+                    ],
+                    "correct_answer": "(C) Kitchen Faucet Model # MV550"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 160.",
+                    "question_text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? \u201cWe realized it was the wrong one so the box has not been opened.\u201d",
+                    "answers": [
+                        "(A) [1]",
+                        "(B) [2]",
+                        "(C) [3]",
+                        "(D) [4]"
+                    ],
+                    "correct_answer": "(B) [2]"
+                }
+            ]
+        },
+        {
+            "paragraph": "\u00a0Do you think movie theaters have gotten too expensive?\nWould you rather enjoy movies in the comfort of your own home? \nHi-Tech Electronics has the perfect solution: a home theater system.\nFrom now through September 30th, all projectors and screens are10% off the regular price. Theater chairs are 15% off. All DVD players are 20% off, and take 25% off all home theater audio equipment.\nHi-Tech Electronics has been selling high-quality, state-of-the-art electronics for over 25 years. Our competitive prices and the support of our loyal customers have made Hi-Tech Electronics the best electronics store in the area. We are located in the 488West Broad Street in the Brook Meadows Shopping Center.\nStop by today!\nHi-Tech is your trusted source for the latest electronics.\u00a0",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 161.",
+                    "question_text": "What reason is mentioned in the advertisement for purchasing a home theater system?",
+                    "answers": [
+                        "(A) It is more exciting to watch movies at home.",
+                        "(B) Movie theaters are too crowded.",
+                        "(C) Home theaters are great for entertaining guests.",
+                        "(D) Ticket prices are too high."
+                    ],
+                    "correct_answer": "(D) Ticket prices are too high."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 162.",
+                    "question_text": "The word \u201cstate-of-the-art\u201d is closest in meaning to",
+                    "answers": [
+                        "(A) attractive",
+                        "(B) creative",
+                        "(C) modern",
+                        "(D) old-fashioned"
+                    ],
+                    "correct_answer": "(C) modern"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 163.",
+                    "question_text": "What is stated about Hi-Tech Electronics?",
+                    "answers": [
+                        "(A) It is conveniently located.",
+                        "(B) Its products are reasonably priced.",
+                        "(C) It opened for business recently.",
+                        "(D) Its staff is very knowledgeable."
+                    ],
+                    "correct_answer": "(B) Its products are reasonably priced."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 164.",
+                    "question_text": "How much of a discount is offered on speakers?",
+                    "answers": [
+                        "(A) 10%",
+                        "(B) 15%",
+                        "(C) 20%",
+                        "(D) 25%"
+                    ],
+                    "correct_answer": "(D) 25%"
+                }
+            ]
+        },
+        {
+            "paragraph": "   Stallworth Securities  June 4Ms. Karol Mitchell1714 Washington BoulevardCanton, OH 44702Ms. Mitchell,Thank you for your interest in Stallworth Securities. I received your application, resume, and cover letter today. After reviewing your resume, I believe you are overqualified for the financial analyst position you applied for. Your qualifications are quite impressive and I think we may have a position that better utilizes your skills.We are currently looking for an auditor to join our accounting team. I believe you are well qualified for this position as you have extensive experience in the internal auditing. I forwarded your resume to our Accounting Manager, Richard Harris, and he is interested in setting up an interview with you. Mr. Harris may be interested in speaking with your former employers, so I recommend bringing a list of references with you to the interview.Please call me or send an e-mail at your earliest convenience to let me know if you would be interested in meeting with Mr. Harris about the auditor position.Sincerely,Samantha HuberHuman Resources ManagerStallworth Securities",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 165.",
+                    "question_text": "What can be inferred from the letter?",
+                    "answers": [
+                        "(A) There are several candidates for the position on Mr. Harris\u2019 team.",
+                        "(B) Ms. Mitchell has interviewed at Stallworth Securities.",
+                        "(C) Mr. Harris has contacted Ms. Mitchell\u2019s former employer.",
+                        "(D) Mr. Harris has reviewed Ms. Mitchell\u2019s resume."
+                    ],
+                    "correct_answer": "(D) Mr. Harris has reviewed Ms. Mitchell\u2019s resume."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 166.",
+                    "question_text": "What position did Ms. Mitchell apply for?",
+                    "answers": [
+                        "(A) Auditor",
+                        "(B) Financial Analyst",
+                        "(C) Accountant",
+                        "(D) Human Resources Manager"
+                    ],
+                    "correct_answer": "(B) Financial Analyst"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 167.",
+                    "question_text": "What did Ms. Mitchell probably NOT send to Ms. Huber?",
+                    "answers": [
+                        "(A) An application",
+                        "(B) A resume",
+                        "(C) A cover letter",
+                        "(D) A list of references"
+                    ],
+                    "correct_answer": "(D) A list of references"
+                }
+            ]
+        },
+        {
+            "paragraph": " Marlin Akerman [1:00 P.M.] ---------------------------------------------------------------------------------------------------------------------Mr. Hopkins, have you seen our restaurant's health and safety records? ---------------------------------------------------------------------------------------------------------------------Marlin Akerman[1:02 P.M.]I was just informed that most of our employees' safety certificates have expired. ---------------------------------------------------------------------------------------------------------------------Sarah Dugo[1:02 P.M.]Really? I've never heard about that. ---------------------------------------------------------------------------------------------------------------------Anthony Hopkins [1:04 P.M.]Yes, Marlin. I know that. We just planned a series of training sessions for 3 months from next week. Our workers are required to attend one of these sessions. ---------------------------------------------------------------------------------------------------------------------Marlin Akerman [1:07 P.M.]I have checked the schedule already but that training session was only for new employees. We need another session for existing employees who were certified last year. ---------------------------------------------------------------------------------------------------------------------Sarah Dugo[1:08 P.M.]Well, we don't have to participate in this workshop, right? ---------------------------------------------------------------------------------------------------------------------Marlin Akerman[1:09 P.M.]Totally, yes, Sarah. ---------------------------------------------------------------------------------------------------------------------Anthony Hopkins [1:10 P.M.]Oh, I didn't know that, Marlin. Could you email me a list of workers whose certificates have expired? Then we can schedule an additional course for them. ---------------------------------------------------------------------------------------------------------------------Sarah Dugo[1:13 P.M.]I want the information, too. Please give it to me by e-mail.",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 168.",
+                    "question_text": "What problem does the Marlin mention?",
+                    "answers": [
+                        "(A) A fire alarm system has not been installed.",
+                        "(B) Three classes are scheduled at the same time.",
+                        "(C) Some records are not correct.",
+                        "(D) Some certificates are not valid."
+                    ],
+                    "correct_answer": "(D) Some certificates are not valid."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 169.",
+                    "question_text": "What does Marlin say about the workers who were certified last year?",
+                    "answers": [
+                        "(A) They will instruct new employees.",
+                        "(B) They need to attend a session.",
+                        "(C) They should present a certificate.",
+                        "(D) They should contact their managers."
+                    ],
+                    "correct_answer": "(B) They need to attend a session."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 170.",
+                    "question_text": "At 1:10, what does Mr. Hopkins mean when he writes, \u201cOh, I didn\u2019t know that\u201d?",
+                    "answers": [
+                        "(A) Certain certificate should be renewed.",
+                        "(B) He should attend a workshop with his staff.",
+                        "(C) He is aware of the plan of upcoming event exactly.",
+                        "(D) A list of workers who have expired certificates was completed."
+                    ],
+                    "correct_answer": "(C) He is aware of the plan of upcoming event exactly."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 171.",
+                    "question_text": "What does Mr. Hopkins ask Ms. Akerman to do?",
+                    "answers": [
+                        "(A) Provide names of workers",
+                        "(B) Email directions",
+                        "(C) Lead a seminar",
+                        "(D) File some documents"
+                    ],
+                    "correct_answer": "(A) Provide names of workers"
+                }
+            ]
+        },
+        {
+            "paragraph": "\u00a0Freedom Bank and Trust CompanyFreedom Bank and Trust, one of the leading financial firms in the world, has been in business for nearly 100 years. In the beginning, we were a local bank in Chicago, Illinois providing checking, savings, and loan services. Over time, we have grown to become one of the largest and most diversified financial services companies in North America with operations in 40 states. \u2014 [1] \u2014. We have won numerous industry awards, and our firm has been named one of the top five financial firms in America by the American Bankers Association.\nTo become one of the most successful banks in the country, we have made significant investments in customer service training and internal recognition of our employees for outstanding service. \u2014 [2] \u2014. We pride ourselves in offering the best customer services in the industry as indicated by winning the J.R. Lucas Customer Service Award for banking for the past 3 years running. \u2014 [3] \u2014. Our customers receive individual attention that other large banks are unable to offer.\n\u2014 [4] \u2014. Whether you want to open a checking or savings account, apply for a loan, or invest money in your retirement, please visit any of our 724 branch offices across the country.\u00a0",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 172.",
+                    "question_text": "What is stated about Freedom Bank and Trust Company?",
+                    "answers": [
+                        "(A) Loan rates are the lowest in the industry.",
+                        "(B) They have branches worldwide.",
+                        "(C) Most of their business focuses on loan services.",
+                        "(D) It has expanded over the years."
+                    ],
+                    "correct_answer": "(D) It has expanded over the years."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 173.",
+                    "question_text": "The word \u201cdiversified\u201d in paragraph 1, is closest in meaning to",
+                    "answers": [
+                        "(A) successful",
+                        "(B) varied",
+                        "(C) controversial",
+                        "(D) specialized"
+                    ],
+                    "correct_answer": "(B) varied"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 174.",
+                    "question_text": "What work is NOT mentioned as a reason for Freedom Bank and Trust\u2019s outstanding service?",
+                    "answers": [
+                        "(A) They provide employees special training.",
+                        "(B) They reward employees for good service.",
+                        "(C) They offer special attention to customers.",
+                        "(D) They conduct customer satisfaction surveys."
+                    ],
+                    "correct_answer": "(D) They conduct customer satisfaction surveys."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 175.",
+                    "question_text": "In which of the positions marked [1], [2], [3] and [4] does the following sentence best belong? \u201cOur business now includes retail brokerage services, wealth management, investment banking, mortgage services, and traditional banking.\u201d",
+                    "answers": [
+                        "(A) [1]",
+                        "(B) [2]",
+                        "(C) [3]",
+                        "(D) [4]"
+                    ],
+                    "correct_answer": "(A) [1]"
+                }
+            ]
+        },
+        {
+            "paragraph": " To: Tenants of the Glendale Office ComplexFrom: Ms. Colleen Bullock, Winston & Pretlow CompanyDate: June 1Winston & Pretlow Company is pleased to announce that we have assumed the management of the Glendale Office Complex. We look forward to working with you.Below is a list of important contacts in our company.Security DepartmentHead of Security, Mr. Edward Ross  <edross@winstonpretlow.com>Maintenance and OperationsMaintenance Supervisor, Mr. Michael Pittman  <mpittman@winstonpretlow.com> (For issues with landscaping and outdoor maintenance, please contact our landscaping contractor directly, Mr. Marshall Weaver of Odyssey Landscape Services at mweaver@odysseylandscape.com)General ManagementProperty Manager, Ms. Colleen Bullock  <cbullock@winstonpretlow.com>Winston & Pretlow Company919-555-7870 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------From: Mark Tinsley  <mtinsley@comptontechnologies.com>To: Edward Ross  <edross@winstonpretlow.com>Date: June 25Subject: New key cardsAttachment: Orientation Schedule.docMy name is Mark Tinsley and I work at Compton Technologies. We are located on the third floor of the Glendale Office Complex. We have hired 5 new employees that will be starting on July 1. We have run out of entrance key cards and would like to order some for the new employees. I would appreciate it if you could deliver the key cards by the end of the week. Thank you.Sincerely,Mark Tinsley",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 176.",
+                    "question_text": "What kind of business is Winston & Pretlow Company?",
+                    "answers": [
+                        "(A) A property management company",
+                        "(B) A security company",
+                        "(C) A landscaping company",
+                        "(D) A construction company"
+                    ],
+                    "correct_answer": "(A) A property management company"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 177.",
+                    "question_text": "What is indicated in the memo?",
+                    "answers": [
+                        "(A) The Glendale Office Complex is seeking new tenants.",
+                        "(B) A new landscaping package will be installed.",
+                        "(C) Winston & Pretlow Company will hire new staff.",
+                        "(D) Various individuals may be contacted for assistance."
+                    ],
+                    "correct_answer": "(D) Various individuals may be contacted for assistance."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 178.",
+                    "question_text": "To what department did Mr. Tinsley write the e-mail?",
+                    "answers": [
+                        "(A) Security Department",
+                        "(B) Maintenance and Operations",
+                        "(C) Landscaping",
+                        "(D) General Management"
+                    ],
+                    "correct_answer": "(A) Security Department"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 179.",
+                    "question_text": "What is the purpose of Mr. Tinsley\u2019s e-mail?",
+                    "answers": [
+                        "(A) To report a lost key card",
+                        "(B) To request additional key cards",
+                        "(C) To seek advice on office security",
+                        "(D) To request information on leasing some office space"
+                    ],
+                    "correct_answer": "(B) To request additional key cards"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 180.",
+                    "question_text": "In the memo, the word \u201cassumed\u201d in paragraph 1, is closest in meaning to",
+                    "answers": [
+                        "(A) purchased",
+                        "(B) relinquished",
+                        "(C) taken over",
+                        "(D) announced"
+                    ],
+                    "correct_answer": "(C) taken over"
+                }
+            ]
+        },
+        {
+            "paragraph": "   Nuvotech Biosciences Aiden KellyVice President of Clinical Research  Suite 109 28 Wilson Street Sydney, NSW 5025 Australia---------------------------------------------------------------------------------------------------------------------Phone : (61) 02 2883 9969 E-mail: akelly@nuvotech.com Web : www.nuvotech.com------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------To: Aiden Kelly  <akelly@nuvotech.com>From: Yuri ltoyuri.ito@stricklanduniversity.eduSubject: Follow upDate: May 5I enjoyed meeting you at the clinical research conference in Anaheim, California last week. Thank you for telling me about your company\u2019s opening for a clinical research supervisor. I believe I am very qualified for this position. As mentioned in person, I am currently a clinical research specialist at the Strickland University International Clinical Research Center in London. I work on a team aimed at understanding the biological significance of cellular processes. Additionally I serve on the European Union Scientific and Regulatory Committee of Clinical Research, which exposes me to important issues in our field.As my resume indicates, I spent several years in the United States, first as a biomedical student at Shepherd University and then as an intern at King Health Systems in San Francisco. The training I received at these institutions was very thorough, and living in the US enabled me to become fluent in English. My fluency in Japanese, English, and Mandarin Chinese is particularly helpful in communicating with researchers across the globe.As per your request, I have attached my resume and some clinical reports I have recently written. I will be traveling to your city next month and would like to stop by your office if you have time.I look forward to hearing from you soon.Sincerely,Yuri Ito (020) 8563 3352Yuri.ito@stricklanduniversity.edu",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 181.",
+                    "question_text": "Why was the e-mail written?",
+                    "answers": [
+                        "(A) To follow up on a previous conversation",
+                        "(B) To promote an organization",
+                        "(C) To inform someone about a job opening",
+                        "(D) To confirm an appointment for an interview"
+                    ],
+                    "correct_answer": "(A) To follow up on a previous conversation"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 182.",
+                    "question_text": "What is indicated about Mr. Kelly?",
+                    "answers": [
+                        "(A) He serves on a clinical research committee.",
+                        "(B) He has attended a conference in California.",
+                        "(C) He has never met Ms. Ito in person.",
+                        "(D) He works in London."
+                    ],
+                    "correct_answer": "(B) He has attended a conference in California."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 183.",
+                    "question_text": "What does Ms. Ito express her interest in doing?",
+                    "answers": [
+                        "(A) Teaching at Shepherd University",
+                        "(B) Serving on the EU Scientific and Regulatory Committee of Clinical Research",
+                        "(C) Training at King Health Systems",
+                        "(D) Working for Nuvotech Biosciences"
+                    ],
+                    "correct_answer": "(D) Working for Nuvotech Biosciences"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 184.",
+                    "question_text": "What is NOT mentioned as one of Ms. Ito\u2019s strengths?",
+                    "answers": [
+                        "(A) Ability to speak a few languages",
+                        "(B) Expertise in clinical research",
+                        "(C) Experience as a supervisor",
+                        "(D) Education in biomedicine"
+                    ],
+                    "correct_answer": "(C) Experience as a supervisor"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 185.",
+                    "question_text": "What country does Ms. Ito want to meet Mr. Kelly in?",
+                    "answers": [
+                        "(A) USA",
+                        "(B) Australia",
+                        "(C) Japan",
+                        "(D) China"
+                    ],
+                    "correct_answer": "(B) Australia"
+                }
+            ]
+        },
+        {
+            "paragraph": "   MEMO From: Allison O\u2019DonnellTo: Marketing DepartmentDate: August 4Re: New advertising campaignAt tomorrow\u2019s meeting, we need to make a final decision on which magazine we will advertise in for Zing all purpose cleaner. As you may know, we previously discussed advertising Zing using direct mailers or on the Internet, but we ultimately decided on inserts that will be placed inside magazines.In preparation for the meeting, please take a look at the attached list of magazines. We originally considered 15 different magazines, but we narrowed it down to these five based on circulations, size, price, and insert limitations. The attached table shows the different options and criteria we must take into consideration as we make a final selection.The genres of magazines are varied because cleaning products are used by everyone. Therefore, we are not targeting any specific readership. Management has indicated that they prefer the least expensive option. Although its circulation of 95,000 is less than the others, it has the best ratio of price to circulation and also limits the number of inserts. This means our advertisements will not have to compete with a lot of other inserts for the readers\u2019 attention.------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------    Magazine     Circulation     Frequency     Maximum Number of Inserts     Rates     Additional Notes    Sports Today     180,000     Weekly     8    $225,000     ------------     Home & Garden     165,000    Quarterly     No limit     $185,000     Targets homeowners    Paparazzi     135,000     Monthly     No limit     $150,500     Provides entertainment news to a broad audience     Discovery Earth     125,000    Monthly     4     $155,000     Complimentary copy on four major airlines     Health & Fitness     95,000     Monthly     2     $120,000     ------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------  To : Allison O'Donnell From : Christina HendricksI\u2019ve checked out the attached list. You recommended the cheapest publication but I don\u2019t think the option would be effective and suitable for our product, considering the potential readers. Rather, I think that the other magazines intended for home owners or many people will be more successful. I want us to reconsider this issue more carefully by the next meeting.",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 186.",
+                    "question_text": "What does the memo discuss?",
+                    "answers": [
+                        "(A) Changing the date of a meeting",
+                        "(B) Increasing magazine circulation",
+                        "(C) Buying advertising space",
+                        "(D) Buying a subscription to a magazine"
+                    ],
+                    "correct_answer": "(C) Buying advertising space"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 187.",
+                    "question_text": "How many magazines were originally considered?",
+                    "answers": [
+                        "(A) 5",
+                        "(B) 10",
+                        "(C) 11",
+                        "(D) 15"
+                    ],
+                    "correct_answer": "(D) 15"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 188.",
+                    "question_text": "What information was NOT used in selecting a magazine?",
+                    "answers": [
+                        "(A) Its advertising rates",
+                        "(B) Its total circulation",
+                        "(C) Its number of inserts",
+                        "(D) Its readership"
+                    ],
+                    "correct_answer": "(D) Its readership"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 189.",
+                    "question_text": "Which magazine is recommended in the memo?",
+                    "answers": [
+                        "(A) Home & Garden",
+                        "(B) Paparazzi",
+                        "(C) Discovery Earth",
+                        "(D) Health & Fitness"
+                    ],
+                    "correct_answer": "(D) Health & Fitness"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 190.",
+                    "question_text": "What is indicated about Home & Garden magazine?",
+                    "answers": [
+                        "(A) It has the most expensive advertising rates.",
+                        "(B) It limits the number of advertising insert.",
+                        "(C) It publishes four issues per year.",
+                        "(D) It is available on airline flights inserts."
+                    ],
+                    "correct_answer": "(C) It publishes four issues per year."
+                }
+            ]
+        },
+        {
+            "paragraph": "\u00a0Grand Opening of Campbell Studios \nJared Campbell is excited to announce that Campbell Studios is expanding to Barboursville! The new studio will open on April 1st and is located at 421 Kingston Street. We offer a wide range of photographic services including portraits, special event, and commercial photography. We also offer a variety of printing services such as digital prints, calendars, greeting cards, and more. To kick off our first month in Barboursville, we\u2019re offering some special deals for the month of April. If interested, call us now and send an e-mail, and we will send you this special voucher with our schedule promptly. I recommend you and your family to make precious and valuable memory with our studio.\n421 Kingston Street, Barboursville WV 51823\nTelephone number : (501) 555-8726\nEmail: jaredcampbell@ worldmail.net\n---------------------------------------------------------------------------------------------------------------------\n---------------------------------------------------------------------------------------------------------------------April Family and Individual Portrait Specials:\n- All portraits taken during the 1st-15th of April will receive a 20% discount.\n- All portraits taken during the 16th-30th of April will receive a free 8\u201dxl0\u201d picture frame (valued at $50).Business hours:\nMonday: Closed\nTuesday, Wednesday, Thursday: 9 A.M-6 P.M.\nFriday: 9 A.M-8 P.M.\nSaturday: 8 A.M-6 P.M.\nSunday: 11 A.M-5 P.M.Appointment and Payment Terms:\nAppointments for portraits must be made at least two days in advance and can be made by phone or e-mail. Customers will receive a phone call to confirm their appointment one day prior to their scheduled visit. Any cancellations made less than 24 hours before the scheduled appointment will be assessed a $20 fee. A 50% deposit is expected on the day of service.\n---------------------------------------------------------------------------------------------------------------------\n---------------------------------------------------------------------------------------------------------------------\nTo: Jared Campbell\nFrom: Alford Willis\nSent: April 10\nRe: Baby Portrait\nDear Mr. Campbell:\nOn the weekend of April 25th, my son and his family will be visiting from Denton for my grandson\u2019s 1st birthday. As a gift for my son, I would like to schedule a baby portrait for Saturday, April 26th at your new Barboursville studio. Do you have any appointments available for that day? An appointment before noon is probably best for the baby. Please reply to this email or call me at (501) 866-9020 and let me know your availability.\nBy the way, I was recommended to you by friends of mine in Charlestown and Blacksburg. They had family portraits taken in your studios there and said the portraits were fantastic and the service was top notch, so I\u2019m hoping you will have time to schedule this photo shoot. I look forward to hearing from you soon.\u00a0",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 191.",
+                    "question_text": "In the advertisement, what is NOT stated about appointments?",
+                    "answers": [
+                        "(A) They can be made by e-mail.",
+                        "(B) They will be confirmed by phone.",
+                        "(C) They can be made by up to two days in advance.",
+                        "(D) They can be cancelled at any time without penalty."
+                    ],
+                    "correct_answer": "(D) They can be cancelled at any time without penalty."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 192.",
+                    "question_text": "In the voucher, the word \u201cassessed\u201d in the last paragraph, is closest in meaning to",
+                    "answers": [
+                        "(A) scheduled",
+                        "(B) charged",
+                        "(C) refunded",
+                        "(D) sent"
+                    ],
+                    "correct_answer": "(B) charged"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 193.",
+                    "question_text": "What does Mr. Willis\u2019 e-mail suggest about Jared Campbell?",
+                    "answers": [
+                        "(A) He has been in business for 1 year.",
+                        "(B) He has worked with Mr. Willis previously.",
+                        "(C) He has relatives living in Charlestown.",
+                        "(D) He has studios in different cities."
+                    ],
+                    "correct_answer": "(D) He has studios in different cities."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 194.",
+                    "question_text": "What will Mr. Willis probably receive on the day of the photo session?",
+                    "answers": [
+                        "(A) A calendar",
+                        "(B) A 20% discount",
+                        "(C) A cash rebate of $50",
+                        "(D) A picture frame"
+                    ],
+                    "correct_answer": "(D) A picture frame"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 195.",
+                    "question_text": "Where does Mr. Willis want to have the photo session?",
+                    "answers": [
+                        "(A) In Denton",
+                        "(B) In Charlestown",
+                        "(C) In Barboursville",
+                        "(D) In Blacksburg"
+                    ],
+                    "correct_answer": "(C) In Barboursville"
+                }
+            ]
+        },
+        {
+            "paragraph": "\nDear Mr. Berkley,\nAs we discussed, I attended the Jump Junior Dance Competition yesterday and took some photographs that I think will be perfect for your magazine.\nI have attached the pictures to this letter and have labeled each picture with a name and short description. To make things easier, I have summarized the information. I recommend you to consult these attachments. I hope you will be able to use these for your article about the competition.\nSincerely,Esther Simon\nEsther Simon\nIndependent Photographer\n---------------------------------------------------------------------------------------------------------------------\n---------------------------------------------------------------------------------------------------------------------\u00a0Picture namePicture description\n\t\t\tFinalist\n\t\t\tShine-1\n\t\t\tShine-2\n\t\t\tShine-3\n\t\t\tJudges\n\t\t\tAll the finalists in the competition\n\t\t\tThe winner, Jennifer Shine on the stage\n\t\t\tMs. Shine at the awards ceremony\n\t\t\tMs. Shine hugging her coach, Matthew Collage\n\t\t\tJudges evaluating a performance\n---------------------------------------------------------------------------------------------------------------------\n---------------------------------------------------------------------------------------------------------------------\nFrom: Derek Berkley <dberkley@flipsidedance.com>\nTo: Esther Simon <colorworks@simonphotos.com>\nDate: September 10 09: 15:26\nDear Mrs. Simon\nThank you so much for the pictures! I looked over your work with the other editors and decided that \"Shine-3\" would be great to put on the front page. We would also like to use \"Shine-1 \"and \"Judges\" in the article that one of our reporters is writing about the competitron.\nWe are offering to pay you our set fee of $50 per picture. Please let me know if this is acceptable and I will send out a contract for your review and signature.\nRegards,\nDerek Berkley\nFlipside Dance Magazine\nBranch Drive 1646\nChicago\u00a0",
+            "questions": [
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 196.",
+                    "question_text": "Why did Mrs. Simon contact Mr. Berkley?",
+                    "answers": [
+                        "(A) To enter a dance competition",
+                        "(B) To subscribe to a magazine",
+                        "(C) To arrange to have her pictures taken",
+                        "(D) To offer items for sale"
+                    ],
+                    "correct_answer": "(D) To offer items for sale"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 197.",
+                    "question_text": "What did Mrs. Simon send with her letter?",
+                    "answers": [
+                        "(A) Her recent work",
+                        "(B) Contact information for a dancer",
+                        "(C) List of competition participants",
+                        "(D) A schedule for a competition"
+                    ],
+                    "correct_answer": "(A) Her recent work"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 198.",
+                    "question_text": "What does Mr. Berkley want to display on the front page?",
+                    "answers": [
+                        "(A) A picture of Ms. Shine performing",
+                        "(B) A picture of the competition judges",
+                        "(C) A picture of Ms. Shine with Mr. Collage",
+                        "(D) A picture of the competition finalists"
+                    ],
+                    "correct_answer": "(C) A picture of Ms. Shine with Mr. Collage"
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 199.",
+                    "question_text": "What does the e-mail imply about Mr. Berkley?",
+                    "answers": [
+                        "(A) He wrote the article about sports.",
+                        "(B) He works with an editing team.",
+                        "(C) He was a judge at the dance competition.",
+                        "(D) He is a new employee at Flipside Dance Magazine."
+                    ],
+                    "correct_answer": "(B) He works with an editing team."
+                },
+                {
+                    "question_index": "C\u00e2u h\u1ecfi 200.",
+                    "question_text": "What does Mr. Berkley want Mrs. Simon to do next?",
+                    "answers": [
+                        "(A) Confirm a price",
+                        "(B) Contact an editor",
+                        "(C) Write an article",
+                        "(D) Attend a competition"
+                    ],
+                    "correct_answer": "(A) Confirm a price"
+                }
+            ]
+        }
+    ]
+}
